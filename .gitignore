@@ -1,0 +1,12 @@
+# Maven / NetBeans build output
+target/
+nbproject/private/
+nb-configuration.xml.bak
+*.class
+
+# IDE / OS files
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
